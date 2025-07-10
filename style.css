@@ -120,10 +120,7 @@ header address {
 }
 
 #mainimg {
-	width: 100%;
-	margin: 0;
-	padding: 0;
-	display: block;
+	 margin-bottom: var(--global-space);
 }
 
 #contents {
